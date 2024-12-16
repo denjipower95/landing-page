@@ -88,3 +88,7 @@ li a{
   height: auto;
   width: 50%;
 }
+
+.info {
+  padding: 48px 300px;
+}
