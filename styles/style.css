@@ -25,3 +25,8 @@ body {
   align-items: center;
   padding: 18px 300px;
 }
+
+.logo {
+  height: auto;
+  width: 50px;
+}
