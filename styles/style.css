@@ -58,3 +58,9 @@ li a{
   padding: 60px 300px;
   gap: 180px;
 }
+
+.hero-text {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
