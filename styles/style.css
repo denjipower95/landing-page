@@ -158,3 +158,9 @@ li a{
   padding: 48px 100px;
   border-radius: 8px;
 }
+
+.action-text {
+  font-weight: 900;
+  font-size: 18px;
+  color: #f9faf8;
+}
