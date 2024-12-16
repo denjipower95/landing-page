@@ -18,3 +18,10 @@ body {
 .hero {
   background-color: #2b2521;
 }
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 300px;
+}
