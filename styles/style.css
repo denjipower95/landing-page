@@ -50,3 +50,11 @@ li a{
   font-size: 18px;
   color: #e5e7eb;
 }
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 300px;
+  gap: 180px;
+}
