@@ -70,3 +70,12 @@ li a{
   color: #e5e7eb;
   margin-bottom: 12px;
 }
+
+.sign-up {
+  padding: 8px 36px;
+  border-radius: 8px;
+  border: none;
+  background-color: #896553;
+  color: #f9faf8;
+  font-size: 18px;
+}
