@@ -149,3 +149,12 @@ li a{
   align-items: center;
   padding: 100px 300px;
 }
+
+.action {
+  background-color: #896553;
+  display: flex;
+  justify-content: space-between;
+  gap: 150px;
+  padding: 48px 100px;
+  border-radius: 8px;
+}
