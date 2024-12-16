@@ -108,3 +108,8 @@ li a{
   gap: 48px;
   padding: 24px 0;
 }
+
+.card {
+  width: 200px;
+  text-align: center;
+}
