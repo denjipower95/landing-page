@@ -137,3 +137,8 @@ li a{
   font-style: italic;
   color: #1f2937;
 }
+
+.author {
+  font-size: 18px;
+  font-weight: 900;
+}
