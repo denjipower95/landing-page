@@ -30,3 +30,8 @@ body {
   height: auto;
   width: 50px;
 }
+
+h1,
+p {
+  margin: 0;
+}
