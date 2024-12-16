@@ -100,3 +100,11 @@ li a{
   font-weight: 900;
   margin-bottom: 24px;
 }
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
+  padding: 24px 0;
+}
