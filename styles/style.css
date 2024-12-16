@@ -177,3 +177,12 @@ li a{
   font-size: 18px;
   background-color: #896553;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2b2521;
+  padding: 32px;
+  color: #f9faf8;
+}
