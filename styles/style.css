@@ -130,3 +130,10 @@ li a{
   align-items: flex-end;
   padding: 100px 300px;
 }
+
+.quote-text {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937;
+}
