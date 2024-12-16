@@ -168,3 +168,12 @@ li a{
 .action-subtext {
   color: #e5e7eb;
 }
+
+.sign-up-2 {
+  padding: 8px 36px;
+  border-radius: 8px;
+  border: 2px solid #f9faf8;
+  color: #f9faf8;
+  font-size: 18px;
+  background-color: #896553;
+}
